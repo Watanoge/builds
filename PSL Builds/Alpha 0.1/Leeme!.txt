@@ -1,0 +1,34 @@
+- Lanzamiento Pre-Alpha -
+El juego aún está incompleto. Este lanzamiento está pensado para conseguir tanto reportes de errores como feedback. Actualmente el juego consta con lo siguiente:
+* Personaje:
+	- Creación de nave con:
+		> 5 Vidrios distintos
+		> 3 Alas distintas
+		> 2 Cañones distintos
+		> 3 Propulsores distintos
+		> 5 Detalles distintos
+		> 11 Colores para cada pieza
+		> Cada pieza tiene sus propios stats que afectan a la nave
+	- Inventario
+	- Mejoras:
+		> Vida
+		> Daño
+		> Velocidad
+		> Velocidad de Grio
+		> Capacidad de inventario
+	- Seguimiento de la Quest actual
+	- Subida de nivel
+	- Al morir pierde una cantidad al azar de dinero y experiencia y aparece en una base amiga aleatoria en el mapa.
+* Bases amigas:
+	- Tienda
+	- Quests
+	- Mejoras
+* Enemigos:
+	- Generados aleatoriamente con stats únicos dependiendo de sus piezas
+	- Pueden soltar 5 objetos distintos
+* Asteroides:
+	- Pueden aparecer en grupos o solos
+	- Son 7 tipos de materiales distintos
+* Mapa:
+	- Mapa de 250x250
+	- Mapa generado aleatoriamente (muy básico)
